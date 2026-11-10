@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Muhammed Afsal Creator Website
 
 A responsive static website based on the supplied creator homepage design.
@@ -28,3 +29,7 @@ The website only links to public social profiles. It does not ask visitors for s
 6. Open **Deploy > Pages** to find your published website URL. GitLab may ask you to enable Pages for the project.
 
 You can edit the files locally and push updates to GitLab whenever you want.
+=======
+# muhammed-afsal-website
+Muhammed Afsal Creator Website
+>>>>>>> 8fab44d3e2ce2666390cb181c192620ec4151531
